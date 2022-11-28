@@ -1,0 +1,1 @@
+export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"六陽开发文档\",\"description\":\"记录一些知识、开发中遇到的问题及解决方案\",\"head\":[[\"link\",{\"rel\":\"icon\",\"href\":\"/images/logo.jpeg\"}]],\"locales\":{}}")

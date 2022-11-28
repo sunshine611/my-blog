@@ -1,0 +1,13 @@
+{
+    "scripts": {
+        "dev": "vuepress dev docs",
+        "build": "vuepress build docs"
+    },
+    "dependencies": {
+        "vuepress": "^2.0.0-beta.53"
+    },
+    "devDependencies": {
+        "@vuepress/plugin-back-to-top": "^2.0.0-beta.53",
+        "@vuepress/plugin-nprogress": "^2.0.0-beta.53"
+    }
+}
